@@ -71,7 +71,7 @@ node_modules/
 # === Custom additions based on your repo ===
 
 # Ignore local subprojects
-backend/
+#backend/
 cloud-data-analytics/
 
 # (Optional) Ignore deployment build files
